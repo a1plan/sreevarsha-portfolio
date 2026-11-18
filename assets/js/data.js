@@ -7,10 +7,10 @@ window.PORTFOLIO_DATA = {
     "eyebrow": "Instructional Design • Learning Experience Design • AI",
     "headline": "Complex ideas. Clear learning.",
     "highlight": "Clear learning.",
-    "intro": "I design learning experiences that make complex technology easier to understand. My work spans technical curricula, interactive eLearning and multimedia training.",
-    "about": "I am an instructional designer and technical curriculum developer with 4+ years of experience across enterprise software, EdTech, K–12 education, robotics, DevOps, and corporate learning. My work connects deep subject-matter knowledge with human-centered learning design.",
-    "aboutMore": "My background in electronics and communication engineering helps me make technical subjects understandable. I have worked across AI enablement, software education, interactive learning, assessments, storyboards, and multimedia production — partnering closely with SMEs, designers, engineers, and stakeholders.",
-    "approach": "I start with the learner and the performance problem, then choose the simplest experience that makes the skill stick.",
+    "intro": "I design practical, engaging learning experiences that make complex technology easier to understand and apply.",
+    "about": "Instructional designer and technical curriculum developer with 4+ years of experience spanning EdTech, K–12 learning, enterprise software, DevOps and AI enablement.",
+    "aboutMore": "With an engineering background and experience in learning design, technical writing and multimedia development, I turn specialist knowledge into structured learning that works for real people.",
+    "approach": "I begin with what learners need to do, then build learning experiences that support understanding, practice and confidence.",
     "email": "Sreevarsha.prakhash@gmail.com",
     "phone": "+91 9019886019",
     "location": "Bengaluru, India",
@@ -43,9 +43,10 @@ window.PORTFOLIO_DATA = {
     "education": "B.E. in Electronics & Communication Engineering · Vidhya Vardhaka College of Engineering · 2018",
     "availability": "Open to thoughtful learning projects and collaborations",
     "hobbies": [
-      "Learning game design",
-      "Creative digital experiments",
-      "Exploring new AI tools"
+      "Films with unforgettable stories",
+      "Discovering cities through food and culture",
+      "Music that sets the mood",
+      "Books, beautiful spaces and small discoveries"
     ]
   },
   "categories": [
