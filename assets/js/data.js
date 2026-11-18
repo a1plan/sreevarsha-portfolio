@@ -3,18 +3,18 @@ window.PORTFOLIO_DATA = {
   "profile": {
     "name": "Sreevarsha Prakhash",
     "shortName": "Sreevarsha",
-    "role": "Instructional Designer · Technical Curriculum Developer · Technical Writer",
+    "role": "Instructional Designer · Technical Curriculum Developer · AI Enthusiast",
     "eyebrow": "Instructional Design • Learning Experience Design • AI",
     "headline": "Complex ideas. Clear learning.",
     "highlight": "Clear learning.",
-    "intro": "I turn complex technical knowledge into engaging, accessible learning experiences — from structured curricula and interactive modules to multimedia training.",
+    "intro": "I design learning experiences that make complex technology easier to understand. My work spans technical curricula, interactive eLearning and multimedia training.",
     "about": "I am an instructional designer and technical curriculum developer with 4+ years of experience across enterprise software, EdTech, K–12 education, robotics, DevOps, and corporate learning. My work connects deep subject-matter knowledge with human-centered learning design.",
     "aboutMore": "My background in electronics and communication engineering helps me make technical subjects understandable. I have worked across AI enablement, software education, interactive learning, assessments, storyboards, and multimedia production — partnering closely with SMEs, designers, engineers, and stakeholders.",
     "approach": "I start with the learner and the performance problem, then choose the simplest experience that makes the skill stick.",
     "email": "Sreevarsha.prakhash@gmail.com",
     "phone": "+91 9019886019",
     "location": "Bengaluru, India",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/sreewar/",
     "github": "",
     "resume": "assets/resume/Sreevarsha_Prakhash_Resume.pdf",
     "photo": "assets/img/professional-headshot.webp",
@@ -41,7 +41,12 @@ window.PORTFOLIO_DATA = {
       "Learning analytics"
     ],
     "education": "B.E. in Electronics & Communication Engineering · Vidhya Vardhaka College of Engineering · 2018",
-    "availability": "Open to thoughtful learning projects and collaborations"
+    "availability": "Open to thoughtful learning projects and collaborations",
+    "hobbies": [
+      "Learning game design",
+      "Creative digital experiments",
+      "Exploring new AI tools"
+    ]
   },
   "categories": [
     {
